@@ -133,3 +133,29 @@ height: 80px;
   margin-left: 10px;
 }
 
+.work-inquiry{
+    width:800px;
+    height: 200px;
+    background-image: url("images/group22.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 60px;
+}
+.work-img h1{
+    float: left;
+    font-size: 35px;
+    margin-top: 70px;
+    margin-left: 20px;
+    color: #fff;
+}
+.work-img a{
+    margin-top: 70px;
+    padding: 10px 20px;
+    background: brown;
+    color: #fff;
+    float: right;
+    margin-right: 20px;
+    border-radius: 5px;
+    
+}
